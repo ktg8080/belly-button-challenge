@@ -31,5 +31,7 @@ Demographic Info Panel
 
 	•	A panel that shows the demographic information of the selected individual.
 
+ To view the website, please visit ktg8080.github.io
+
 
  Credits: code was created using Module 14 classwork, ChatGPT, and https://plotly.com/python/bubble-charts/ for the bubble chart. 
